@@ -53,7 +53,7 @@ Cada proyecto estará acompañado de certificaciones gratuitas y reconocidas que
 ## 🔗 Conecta conmigo
 - GitHub: [uxploit](https://github.com/uxploit)  
 - LinkedIn: [mmolina](https://www.linkedin.com/in/mmolina-uxploit/)
-- Email: mmolina.uxploit@example.com  
+- Email: mmolina.uxploit@gmail.com.com  
 
 ---
 
