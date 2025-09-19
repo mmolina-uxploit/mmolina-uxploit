@@ -76,9 +76,9 @@ Estos son los proyectos que voy a ir desarrollando y documentando en repos separ
 ---
 
 ### 🗄️ Datos & Back-end
-- [x] App Development: [RESTful Web Services](https://www.linkedin.com/learning/certificates/0416964f57103d033c5a53c3d846a0a4b82a53cc468572d11826f1666bdddbfc?trk=share_certificate)  
-- [ ] Bases de datos: [Fundamentos](https://www.linkedin.com/learning/fundamentos-de-la-programacion-bases-de-datos-8625298/bases-de-datos-desde-las-bases)  
-- [ ] Bases de datos: [Ingeniería de datos](https://www.linkedin.com/learning/fundamentos-de-la-ingenieria-de-datos/quieres-ser-ingeniero-de-datos)  
+- [x] [App Development: RESTful Web Services](https://www.linkedin.com/learning/certificates/0416964f57103d033c5a53c3d846a0a4b82a53cc468572d11826f1666bdddbfc?trk=share_certificate)  
+- [ ] [Bases de datos: Fundamentos](https://www.linkedin.com/learning/fundamentos-de-la-programacion-bases-de-datos-8625298/bases-de-datos-desde-las-bases)  
+- [ ] [Bases de datos: Ingeniería de datos](https://www.linkedin.com/learning/fundamentos-de-la-ingenieria-de-datos/quieres-ser-ingeniero-de-datos)  
 
 ---
 
