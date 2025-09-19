@@ -17,13 +17,14 @@ No es un portfolio terminado, sino un registro en evolución: proyectos, estudio
 ---
 
 ## 🗺️ Proyectos en desarrollo
-- 🌀 **RabbitHole iOS** → feed infinito con caché offline.  
-- 🔐 **VaultKit** → seguridad con Keychain y CryptoKit.  
-- 💳 **PayFlow** → pagos con Apple Pay y OAuth.  
-- 🔄 **SyncLab** → sincronización offline-first.  
-- ♿ **A11yKit iOS** → librería de accesibilidad.  
-- 📊 **PerfDash** → métricas de performance y observabilidad.  
-- 🤖 **TCA-Chat (IA)** → chat modular con APIs de IA.  
+- 🌀 **RabbitHole iOS** → feed infinito con caché offline, widget de últimos ítems y deep links locales.  
+- 🔐 **VaultKit** → seguridad con Keychain y CryptoKit, ejemplos de buenas prácticas en iOS.  
+- 💳 **PayFlow** → flujo de pagos simulado con OAuth *mock* y checkout UI, sin Apple Pay real.  
+- 🔄 **SyncLab** → sincronización offline-first con resolución de conflictos en Core Data.  
+- ♿ **A11yKit iOS** → librería de componentes accesibles (VoiceOver, Dynamic Type, contrastes).  
+- 📊 **PerfDash** → panel de métricas locales con `os.signpost` y guías para usar Instruments.  
+- 🤖 **TCA-Chat (IA)** → chat modular en TCA, con modo *echo bot* y demo de Vision/CoreML local.  
+
 
 ---
 
