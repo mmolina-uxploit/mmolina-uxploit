@@ -46,8 +46,8 @@ Estos son los proyectos que voy a ir desarrollando y documentando en repos separ
 ---
 
 ### 🧪 Testing & Calidad
-- [ ] [Programming Foundations: Test-Driven Development](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/small-steps-to-great-things?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b)  
-- [x] [Unit Testing for iOS Developers](https://www.linkedin.com/learning/unit-testing-for-ios-developers)  
+- [x] [Programming Foundations: Test-Driven Development](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/small-steps-to-great-things?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b)  
+- [ ] [Unit Testing for iOS Developers](https://www.linkedin.com/learning/unit-testing-for-ios-developers)  
 - [ ] [Desarrollo TDD con IA](https://www.linkedin.com/learning/desarrollo-test-driven-con-inteligencia-artificial/tu-proceso-de-desarrollo-usando-tdd)  
 - [ ] [Test-Driven Development in an AI World](https://www.linkedin.com/learning/test-driven-development-in-an-ai-world/develop-smarter-with-ai-and-test-driven-development)  
 
