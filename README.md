@@ -17,14 +17,13 @@ No es un portfolio terminado, sino un registro en evolución: proyectos, estudio
 ---
 
 ## 🗺️ Proyectos en desarrollo
-- 🌀 **RabbitHole iOS** → feed infinito con caché offline y deep links locales.  
-- 🔐 **VaultKit** → seguridad con Keychain y CryptoKit, ejemplos de buenas prácticas en iOS.  
-- 💳 **PayFlow** → flujo de pagos simulado con OAuth *mock* y checkout UI, sin Apple Pay real.  
-- 🔄 **SyncLab** → sincronización offline-first con resolución de conflictos en Core Data.  
-- ♿ **A11yKit iOS** → librería de componentes accesibles (VoiceOver, Dynamic Type, contrastes).  
-- 📊 **PerfDash** → panel de métricas locales con `os.signpost` y guías para usar Instruments.  
-- 🤖 **TCA-Chat (IA)** → chat modular en TCA, con modo *echo bot* y demo de Vision/CoreML local.  
-
+- 🌀 [**RabbitHole iOS** → feed infinito con caché offline y deep links locales.](https://github.com/mmolina-uxploit/RabbitHoleiOS)  
+- 🔐 [**VaultKit** → seguridad con Keychain y CryptoKit, ejemplos de buenas prácticas en iOS.](https://github.com/mmolina-uxploit/VaultKit)  
+- 💳 [**PayFlow** → flujo de pagos simulado con OAuth *mock* y checkout UI, sin Apple Pay real.](https://github.com/mmolina-uxploit/PayFlow)
+- 🔄 [**SyncLab** → sincronización offline-first con resolución de conflictos en Core Data.](https://github.com/mmolina-uxploit/SyncLab)  
+- ♿ [**A11yKit iOS** → librería de componentes accesibles (VoiceOver, Dynamic Type, contrastes).](https://github.com/mmolina-uxploit/A11yKit-iOS) 
+- 📊 [**PerfDash** → panel de métricas locales con `os.signpost` y guías para usar Instruments.](https://github.com/mmolina-uxploit/PerfDash)  
+- 🤖 [**TCA-Chat (IA)** → chat modular en TCA, con modo *echo bot* y demo de Vision/CoreML local.](https://github.com/mmolina-uxploit/TCA-Chat-IA-)  
 
 ---
 
@@ -33,7 +32,7 @@ Comparto lo que voy aprendiendo en mi newsletter:
 [Notas de un autodidacta iOS](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7374657829569212416).  
 
 Los temas se desarrollan como un recorrido que empieza en UX y avanza hasta lo más técnico.
-Cada artículo buscará compartir el aprendizaje de manera abierta y honesta.
+Cada artículo buscará compartir mi aprendizaje de manera abierta.
 
 ---
 
@@ -94,7 +93,7 @@ He seguido distintos cursos y certificaciones que forman parte de este camino:
 
 ## 📈 Estado actual
 - [x] Roadmap definido.  
-- [ ] Proyectos iniciales en construcción.  
+- [x] Proyectos iniciales en construcción.  
 - [ ] Integración de CI/CD en cada repo.  
 - [ ] Primeros artículos publicados.  
 
@@ -108,5 +107,3 @@ He seguido distintos cursos y certificaciones que forman parte de este camino:
 ---
 
 ✨ Este es mi espacio de práctica y aprendizaje.  
-Un lugar para crecer con paciencia, compartir lo que voy aprendiendo y construir proyectos que algún día puedan servir a otros.  
-
