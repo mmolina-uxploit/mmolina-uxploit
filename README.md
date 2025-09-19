@@ -31,14 +31,14 @@ Estos son los proyectos que voy a ir desarrollando y documentando en repos separ
 ---
 
 ## 🎓 Certificaciones relacionadas
-- [x] App Development: [RESTful Web Services]("https://www.linkedin.com/learning/certificates/0416964f57103d033c5a53c3d846a0a4b82a53cc468572d11826f1666bdddbfc?trk=share_certificate")
-- [ ] Bases de datos: [Fundamentos]("https://www.linkedin.com/learning/fundamentos-de-la-programacion-bases-de-datos-8625298/bases-de-datos-desde-las-bases")
-- [ ] Bases de datos: [Ingenieria de datos]("https://www.linkedin.com/learning/fundamentos-de-la-ingenieria-de-datos/quieres-ser-ingeniero-de-datos")
-- [x] Fundamentos de UX: [Accesibilidad]("https://www.linkedin.com/learning/certificates/350273621f39b5b716f83c23d49f65cece75582def8fd3f87042071392fe9704")
-- [x] Diseño UX: [Sostenibilidad]("https://www.linkedin.com/learning/certificates/28e602dfe346bd17518c4124d18694f1b5b6729478521e53549d2465db8671c6")
-- [ ] Postman: [Automatización de pruebas]("https://www.linkedin.com/learning/postman-essential-training-21969591/why-automate-your-api-tests")
-- [x] TDD: [iOS App Development]("https://www.linkedin.com/learning/certificates/9729d1178b28d3d0cc699edf7b7308265209797e4e19092030bba810b494f1ac?trk=share_certificate")
-- [ ] iOS Security: [Secure by Design (iOS)]("https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcollections%2F7257671348846518272%3Ftrk%3Dshare_collection_url%26shareId%3DknkKfPRgS02pfMTIrBUSjg%253D%253D") 
+- [x] App Development: [RESTful Web Services](https://www.linkedin.com/learning/certificates/0416964f57103d033c5a53c3d846a0a4b82a53cc468572d11826f1666bdddbfc?trk=share_certificate)
+- [ ] Bases de datos: [Fundamentos](https://www.linkedin.com/learning/fundamentos-de-la-programacion-bases-de-datos-8625298/bases-de-datos-desde-las-bases)
+- [ ] Bases de datos: [Ingenieria de datos](https://www.linkedin.com/learning/fundamentos-de-la-ingenieria-de-datos/quieres-ser-ingeniero-de-datos)
+- [x] Fundamentos de UX: [Accesibilidad](https://www.linkedin.com/learning/certificates/350273621f39b5b716f83c23d49f65cece75582def8fd3f87042071392fe9704)
+- [x] Diseño UX: [Sostenibilidad](https://www.linkedin.com/learning/certificates/28e602dfe346bd17518c4124d18694f1b5b6729478521e53549d2465db8671c6)
+- [ ] Postman: [Automatización de pruebas](https://www.linkedin.com/learning/postman-essential-training-21969591/why-automate-your-api-tests)
+- [x] TDD: [iOS App Development](https://www.linkedin.com/learning/certificates/9729d1178b28d3d0cc699edf7b7308265209797e4e19092030bba810b494f1ac?trk=share_certificate)
+- [ ] iOS Security: [Secure by Design (iOS)](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcollections%2F7257671348846518272%3Ftrk%3Dshare_collection_url%26shareId%3DknkKfPRgS02pfMTIrBUSjg%253D%253D) 
 
 ---
 
