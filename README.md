@@ -2,8 +2,8 @@
 
 # 👋 Bienvenido mi Portfolio
 
-Este repositorio es la **fase inicial** de mi camino.  
-Aquí voy a documentar, paso a paso, la construcción de un ecosistema de proyectos que demuestren dominio técnico, arquitectónico y de calidad en iOS.
+Este repositorio es una **fase inicial** evolutiva.  
+Acá voy a documentar, la construcción de un ecosistema de proyectos que demuestren dominio técnico, arquitectónico y de calidad en iOS.
 
 ---
 
@@ -13,9 +13,7 @@ Aquí voy a documentar, paso a paso, la construcción de un ecosistema de proyec
   - Arquitecturas modernas (MVVM-C, VIPER, Clean, TCA).  
   - Calidad (TDD, snapshots, accesibilidad).  
   - Seguridad y pagos (Keychain, OAuth, Apple Pay).  
-  - Performance y observabilidad (MetricKit, logging).  
-  - Innovación (IA aplicada a flujos móviles).  
-- Alinear cada proyecto con un **mapa de evolución técnica** y **certificaciones gratuitas** que respalden las skills.
+  - Performance y observabilidad (MetricKit, logging). 
 
 ---
 
@@ -33,12 +31,14 @@ Estos son los proyectos que voy a ir desarrollando y documentando en repos separ
 ---
 
 ## 🎓 Certificaciones relacionadas
-Cada proyecto estará acompañado de certificaciones gratuitas y reconocidas que validen mis conocimientos, por ejemplo:
-- freeCodeCamp (APIs, bases de datos, accesibilidad).  
-- Postman Student Expert.  
-- Google Cybersecurity Foundations (Coursera audit).  
-- DeepLearning.AI – Generative AI with LLMs.  
-- W3C – Web Accessibility (edX).  
+- [x] App Development: [RESTful Web Services]("https://www.linkedin.com/learning/certificates/0416964f57103d033c5a53c3d846a0a4b82a53cc468572d11826f1666bdddbfc?trk=share_certificate")
+- [ ] Bases de datos: [Fundamentos]("https://www.linkedin.com/learning/fundamentos-de-la-programacion-bases-de-datos-8625298/bases-de-datos-desde-las-bases")
+- [ ] Bases de datos: [Ingenieria de datos]("https://www.linkedin.com/learning/fundamentos-de-la-ingenieria-de-datos/quieres-ser-ingeniero-de-datos")
+- [x] Fundamentos de UX: [Accesibilidad]("https://www.linkedin.com/learning/certificates/350273621f39b5b716f83c23d49f65cece75582def8fd3f87042071392fe9704")
+- [x] Diseño UX: [Sostenibilidad]("https://www.linkedin.com/learning/certificates/28e602dfe346bd17518c4124d18694f1b5b6729478521e53549d2465db8671c6")
+- [ ] Postman: [Automatización de pruebas]("https://www.linkedin.com/learning/postman-essential-training-21969591/why-automate-your-api-tests")
+- [x] TDD: [iOS App Development]("https://www.linkedin.com/learning/certificates/9729d1178b28d3d0cc699edf7b7308265209797e4e19092030bba810b494f1ac?trk=share_certificate")
+- [ ] iOS Security: [Secure by Design (iOS)]("https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcollections%2F7257671348846518272%3Ftrk%3Dshare_collection_url%26shareId%3DknkKfPRgS02pfMTIrBUSjg%253D%253D") 
 
 ---
 
