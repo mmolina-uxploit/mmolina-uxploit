@@ -81,7 +81,14 @@ He seguido distintos cursos y certificaciones que forman parte de este camino:
 
 ### Swift e iOS Core
 - [Especialista en Desarrollo Swift – LinkedIn Learning](https://www.linkedin.com/learning/certificates/7998b093bdf9381b4db140c0b6a8477aa8f0c7e1f6c5013308b340f25bba43cf?trk=share_certificate)  
-- [iOS Developer – LinkedIn Learning](https://www.linkedin.com/learning/certificates/1d0dc6a50fad7a176444818adeb5d750d0b5cb4cbdb0c00ed9e121a234cbcc4d?trk=share_certificate)  
+- [iOS Developer – LinkedIn Learning](https://www.linkedin.com/learning/certificates/1d0dc6a50fad7a176444818adeb5d750d0b5cb4cbdb0c00ed9e121a234cbcc4d?trk=share_certificate)
+
+### Ecosistema y prácticas avanzadas
+- App Clips y Widgets (documentación oficial Apple, práctica con Xcode).  
+- Universal Links y Deep Links (navegación fluida entre apps y web).  
+- Integraciones con el ecosistema Apple: HealthKit, HomeKit, Wallet, CarPlay.  
+- Feature Flags y Remote Config (ej. Firebase).  
+- Observabilidad avanzada (logging estructurado, métricas custom, tracing).  
 
 ---
 
