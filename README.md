@@ -88,8 +88,8 @@ Estos son los proyectos que voy a ir desarrollando y documentando en repos separ
 ---
 
 ### 📚 Swift & iOS Core
-- [x] Curso de **Especialista en desarrollo Swift**  
-- [x] Curso de **iOS Developer**  
+- [x] [Curso de **Especialista en desarrollo Swift**](https://www.linkedin.com/learning/certificates/7998b093bdf9381b4db140c0b6a8477aa8f0c7e1f6c5013308b340f25bba43cf?trk=share_certificate) 
+- [x] [Curso de **iOS Developer**](https://www.linkedin.com/learning/certificates/1d0dc6a50fad7a176444818adeb5d750d0b5cb4cbdb0c00ed9e121a234cbcc4d?trk=share_certificate)
 
 
 ---
