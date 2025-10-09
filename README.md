@@ -3,7 +3,9 @@
 ## 🌱 Idea inicial
 
 [ ] [Completar:](https://learning.inco-group.co)
+
 [ ] [Completar:](https://www.soyhenry.com/curso-ai-essentials)
+
 [ ] Desarrollo web: ** sostenible, accesible y seguro**.
 
 ---
