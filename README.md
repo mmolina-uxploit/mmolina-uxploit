@@ -12,12 +12,11 @@ Los proyectos funcionan como ejercicios de ingeniería enfocados en decisiones e
 
 Cada proyecto representa una parte específica del sistema dentro de una arquitectura modular.
 
-Se recomienda comenzar por los proyectos **Core**, que definen las bases estructurales.
-
 ---
 
 ## Core Architecture Projects
-### **[**`Feature Modular Architecture`**](https://github.com/mmolina-uxploit/FavoritesFeature)**  
+
+### **[**`Layer: Feature Modular Architecture`**](https://github.com/mmolina-uxploit/FavoritesFeature)**  
 
 **Layer:** System Architecture / Composition
 
@@ -32,9 +31,10 @@ Arquitectura basada en features independientes orientada a escalabilidad de prod
 
 ---
 
-### Async State Management
+## **[**`Async State Management`**](https://github.com/mmolina-uxploit/PredictiveSearch)**  
 
-### **[**`**Layer:** Presentation / Domain Interaction`**](https://github.com/mmolina-uxploit/PredictiveSearch)**  
+### Layer: Presentation / Domain Interaction
+
 Gestión de estado usando Swift Concurrency para lograr flujos de datos predecibles.
 
 **Responsibility**
@@ -46,11 +46,10 @@ Gestión de estado usando Swift Concurrency para lograr flujos de datos predecib
 
 ---
 
-## Infrastructure & Foundations
+## **[**`Infrastructure & Foundations`**](https://github.com/mmolina-uxploit/neuro-fundationsh)**  
 
+### Layer: Networking Layer Design
 
-
-### **[**`**Layer:** Networking Layer Design`**](https://github.com/mmolina-uxploit/neuro-fundationsh)**  
 Diseño de una capa de red desacoplada y testeable.
 
 **Responsibility**
@@ -66,7 +65,8 @@ Diseño de una capa de red desacoplada y testeable.
 
 **Layer:** Presentation Foundation
 
-Base reusable de componentes UI y tokens visuales en SwiftUI.
+* ## **[**`Base reusable de componentes UI`**](https://github.com/mmolina-uxploit/DeterministicFeed)**  
+* ## **[**`Tokens visuales en SwiftUI`**](https://github.com/mmolina-uxploit/SemanticUI)**  
 
 **Responsibility**
 
