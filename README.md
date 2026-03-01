@@ -16,9 +16,9 @@ Cada proyecto representa una parte específica del sistema dentro de una arquite
 
 ## Core Architecture Projects
 
-### **[**`Layer: Feature Modular Architecture`**](https://github.com/mmolina-uxploit/FavoritesFeature)**  
-
 **Layer:** System Architecture / Composition
+
+### **[Feature Modular Architecture`**](https://github.com/mmolina-uxploit/FavoritesFeature)**  
 
 Arquitectura basada en features independientes orientada a escalabilidad de producto y equipos.
 
@@ -31,9 +31,9 @@ Arquitectura basada en features independientes orientada a escalabilidad de prod
 
 ---
 
-## **[**`Async State Management`**](https://github.com/mmolina-uxploit/PredictiveSearch)**  
+**Layer:** Presentation / Domain Interaction
 
-### Layer: Presentation / Domain Interaction
+### **[**`Async State Management`**](https://github.com/mmolina-uxploit/PredictiveSearch)**  
 
 Gestión de estado usando Swift Concurrency para lograr flujos de datos predecibles.
 
@@ -45,10 +45,9 @@ Gestión de estado usando Swift Concurrency para lograr flujos de datos predecib
 * consistencia UI
 
 ---
+**Layer:** Networking Layer Design
 
-## **[**`Infrastructure & Foundations`**](https://github.com/mmolina-uxploit/neuro-fundationsh)**  
-
-### Layer: Networking Layer Design
+### **[**`Infrastructure & Foundations`**](https://github.com/mmolina-uxploit/neuro-fundationsh)**  
 
 Diseño de una capa de red desacoplada y testeable.
 
@@ -61,7 +60,7 @@ Diseño de una capa de red desacoplada y testeable.
 
 ---
 
-### Design System Foundation
+## Design System Foundation
 
 **Layer:** Presentation Foundation
 
