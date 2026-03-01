@@ -64,8 +64,8 @@ Diseño de una capa de red desacoplada y testeable.
 
 **Layer:** Presentation Foundation
 
-* ## [`Base reusable de componentes UI`](https://github.com/mmolina-uxploit/DeterministicFeed)
-* ## [`Tokens visuales en SwiftUI`](https://github.com/mmolina-uxploit/SemanticUI)
+* ### [`Base reusable de componentes UI`](https://github.com/mmolina-uxploit/DeterministicFeed)
+* ### [`Tokens visuales en SwiftUI`](https://github.com/mmolina-uxploit/SemanticUI)
 
 **Responsibility**
 
