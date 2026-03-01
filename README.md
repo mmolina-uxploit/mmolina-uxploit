@@ -34,8 +34,7 @@ Arquitectura basada en features independientes orientada a escalabilidad de prod
 
 ### Async State Management
 
-**Layer:** Presentation / Domain Interaction
-
+### **[**`**Layer:** Presentation / Domain Interaction`**](https://github.com/mmolina-uxploit/PredictiveSearch)**  
 Gestión de estado usando Swift Concurrency para lograr flujos de datos predecibles.
 
 **Responsibility**
@@ -49,10 +48,9 @@ Gestión de estado usando Swift Concurrency para lograr flujos de datos predecib
 
 ## Infrastructure & Foundations
 
-### Networking Layer Design
 
-**Layer:** Data / Infrastructure
 
+### **[**`**Layer:** Networking Layer Design`**](https://github.com/mmolina-uxploit/neuro-fundationsh)**  
 Diseño de una capa de red desacoplada y testeable.
 
 **Responsibility**
