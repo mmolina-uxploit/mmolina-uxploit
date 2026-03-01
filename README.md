@@ -47,7 +47,7 @@ Gestión de estado usando Swift Concurrency para lograr flujos de datos predecib
 ---
 **Layer:** Networking Layer Design
 
-### [`Infrastructure & Foundations`](https://github.com/mmolina-uxploit/neuro-fundationsh)
+### [`Infrastructure & Foundations`](https://github.com/mmolina-uxploit/neuro-fundations)
 
 Diseño de una capa de red desacoplada y testeable.
 
