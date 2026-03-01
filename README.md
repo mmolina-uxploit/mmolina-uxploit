@@ -1,4 +1,4 @@
-![Hero Image](assets/banner.png "Code Lab")
+![Hero Image](assets/banner.png "iOS Systems")
 
 # iOS Engineering Portfolio
 
@@ -18,7 +18,7 @@ Cada proyecto representa una parte específica del sistema dentro de una arquite
 
 **Layer:** System Architecture / Composition
 
-### **[Feature Modular Architecture`**](https://github.com/mmolina-uxploit/FavoritesFeature)**  
+### [Feature Modular Architecture`](https://github.com/mmolina-uxploit/FavoritesFeature)
 
 Arquitectura basada en features independientes orientada a escalabilidad de producto y equipos.
 
@@ -33,7 +33,7 @@ Arquitectura basada en features independientes orientada a escalabilidad de prod
 
 **Layer:** Presentation / Domain Interaction
 
-### **[**`Async State Management`**](https://github.com/mmolina-uxploit/PredictiveSearch)**  
+### [`Async State Management`](https://github.com/mmolina-uxploit/PredictiveSearch)
 
 Gestión de estado usando Swift Concurrency para lograr flujos de datos predecibles.
 
@@ -47,7 +47,7 @@ Gestión de estado usando Swift Concurrency para lograr flujos de datos predecib
 ---
 **Layer:** Networking Layer Design
 
-### **[**`Infrastructure & Foundations`**](https://github.com/mmolina-uxploit/neuro-fundationsh)**  
+### [`Infrastructure & Foundations`](https://github.com/mmolina-uxploit/neuro-fundationsh)
 
 Diseño de una capa de red desacoplada y testeable.
 
@@ -64,8 +64,8 @@ Diseño de una capa de red desacoplada y testeable.
 
 **Layer:** Presentation Foundation
 
-* ## **[**`Base reusable de componentes UI`**](https://github.com/mmolina-uxploit/DeterministicFeed)**  
-* ## **[**`Tokens visuales en SwiftUI`**](https://github.com/mmolina-uxploit/SemanticUI)**  
+* ## [`Base reusable de componentes UI`](https://github.com/mmolina-uxploit/DeterministicFeed)
+* ## [`Tokens visuales en SwiftUI`](https://github.com/mmolina-uxploit/SemanticUI)
 
 **Responsibility**
 
