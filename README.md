@@ -1,115 +1,61 @@
-![Hero Image](assets/banner.png "iOS Systems")
+![Hero Image](assets/banner.png "iOS Systems Architecture")
 
-# iOS Engineering Portfolio
+# THE iOS ENGINEERING CORE
+### Software Design Research | Mobile Systems Architecture
 
-Exploración práctica de arquitectura y diseño de sistemas aplicada al desarrollo iOS moderno.
-
-Los proyectos funcionan como ejercicios de ingeniería enfocados en decisiones estructurales y organización de sistemas.
-
----
-
-## How to Read This Repository
-
-Cada proyecto representa una parte específica del sistema dentro de una arquitectura modular.
+Repositorio central de investigación aplicada al desarrollo de sistemas móviles. Cada proyecto aquí listado es un nodo de evidencia técnica diseñado bajo dos principios innegociables: **Arquitectura Invisible** y **Reducción Radical de la Complejidad**.
 
 ---
 
-## Core Architecture Projects
+## 🏗️ Core Architecture & Composition
+*La capa superior donde se definen los límites del sistema y la inversión de dependencias.*
 
-**Layer:** System Architecture / Composition
-
-### [Feature Modular Architecture`](https://github.com/mmolina-uxploit/FavoritesFeature)
-
-Arquitectura basada en features independientes orientada a escalabilidad de producto y equipos.
-
-**Responsibility**
-
-* definición de límites modulares
-* dependency inversion
-* composition root
-* navegación desacoplada
+### [FavoritesFeature](https://github.com/mmolina-uxploit/FavoritesFeature)
+**Tesis:** Gestión de fronteras y resiliencia al cambio de infraestructura.
+* **Foco:** Arquitectura Hexagonal y aislamiento total del dominio.
+* **Integridad:** Uso de TDD como linter arquitectónico para prevenir la erosión de límites.
 
 ---
 
-**Layer:** Presentation / Domain Interaction
+## 🚦 State & Interaction Management
+*El motor de ejecución. Cómo transformar el flujo de datos en estados predecibles.*
 
-### [`Async State Management`](https://github.com/mmolina-uxploit/PredictiveSearch)
-
-Gestión de estado usando Swift Concurrency para lograr flujos de datos predecibles.
-
-**Responsibility**
-
-* ownership del estado
-* coordinación async
-* cancelación de tareas
-* consistencia UI
-
----
-**Layer:** Networking Layer Design
-
-### [`Infrastructure & Foundations`](https://github.com/mmolina-uxploit/neuro-fundations)
-
-Diseño de una capa de red desacoplada y testeable.
-
-**Responsibility**
-
-* abstracción de transporte
-* requests tipadas
-* modelado de errores
-* aislamiento de dependencias externas
+### [PredictiveSearch](https://github.com/mmolina-uxploit/PredictiveSearch)
+**Tesis:** Determinismo en flujos de datos asíncronos.
+* **Foco:** Swift Concurrency y gestión de propiedad del estado (*State Ownership*).
+* **Resultado:** Eliminación de condiciones de carrera y efectos secundarios no controlados.
 
 ---
 
-## Design System Foundation
+## 🛠️ Infrastructure & Foundations
+*La base técnica. Abstracción de detalles volátiles y protocolos externos.*
 
-**Layer:** Presentation Foundation
-
-* ### [`Base reusable de componentes UI`](https://github.com/mmolina-uxploit/DeterministicFeed)
-* ### [`Tokens visuales en SwiftUI`](https://github.com/mmolina-uxploit/SemanticUI)
-
-**Responsibility**
-
-* design tokens
-* componentes reutilizables
-* consistencia visual
-* independencia del dominio
+### [neuro-foundations](https://github.com/mmolina-uxploit/neuro-fundations)
+**Tesis:** Desacoplamiento de infraestructura y contratos de red inmutables.
+* **Foco:** Networking modular, peticiones tipadas y modelado exhaustivo de errores.
+* **Propósito:** Blindar el núcleo del sistema frente a cambios en proveedores externos.
 
 ---
 
-## Stack
+## 🎨 Presentation & Design Systems
+*La interfaz como detalle. Estética atómica desacoplada de la lógica de negocio.*
 
-* Swift
-* SwiftUI
-* Swift Concurrency
-* Combine
-* Clean Architecture
-* Feature Modularization
-* Testing-oriented design
+### [DeterministicFeed](https://github.com/mmolina-uxploit/DeterministicFeed)
+**Tesis:** Reutilización de componentes bajo contratos de presentación estrictos.
+* **Foco:** Feed dinámico basado en composición de componentes puros.
 
----
-
-## Shared Architectural Structure
-
-Todos los proyectos siguen la misma organización conceptual:
-
-```id="p2k91x"
-Presentation
-Domain
-Data
-Infrastructure
-```
-
-Esto permite evolución independiente por capa y testing aislado.
+### [SemanticUI](https://github.com/mmolina-uxploit/SemanticUI)
+**Tesis:** Tokens visuales y diseño sistémico en SwiftUI.
+* **Foco:** Independencia del dominio y consistencia visual mediante abstracción semántica.
 
 ---
 
-## Navigation
+## 🧬 Engineering Principles
 
-Cada proyecto incluye:
+* **Inmutabilidad por diseño:** El estado es una constante hasta que la lógica de negocio dicta lo contrario.
+* **Desacoplamiento Atómico:** Los frameworks son detalles de implementación, no el corazón del sistema.
+* **Testing de Contrato:** Validación de fronteras para garantizar la estabilidad a largo plazo.
 
-* contexto del problema
-* decisiones arquitectónicas
-* trade-offs
-* estructura interna
+> "Mi objetivo no es escribir código rápido, sino diseñar sistemas tan claros que su complejidad resulte invisible."
 
 ---
